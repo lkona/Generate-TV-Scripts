@@ -22,4 +22,4 @@ What I learnt:
 
         * Setting the hyperparameters for optimal loss values.
         
-4. Generating a new TV scripts using the trained model.         
+4. Generating new TV scripts using the trained model.         
